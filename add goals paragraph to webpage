@@ -1,0 +1,3 @@
+git add .
+git commit -m "feat: add goals paragraph to webpage"
+git push
