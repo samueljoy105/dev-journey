@@ -1,0 +1,3 @@
+git add .
+git commit -m "edit: improve greet.py to ask for full name"
+git push
