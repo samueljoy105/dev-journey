@@ -1,0 +1,3 @@
+git add .
+git commit -m "edit: improve calculator.py with operation menu"
+git push
