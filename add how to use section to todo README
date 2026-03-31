@@ -1,0 +1,3 @@
+git add .
+git commit -m "edit: add how to use section to todo README"
+git push
