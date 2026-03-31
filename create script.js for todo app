@@ -1,0 +1,3 @@
+git add .
+git commit -m "feat: create script.js for todo app"
+git push
