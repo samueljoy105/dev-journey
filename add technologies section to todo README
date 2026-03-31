@@ -1,0 +1,3 @@
+git add .
+git commit -m "edit: add technologies section to todo README"
+git push
