@@ -1,0 +1,3 @@
+git add .
+git commit -m "feat: add clear all tasks button"
+git push
