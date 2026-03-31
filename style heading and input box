@@ -1,0 +1,3 @@
+git add .
+git commit -m "style: style heading and input box"
+git push
