@@ -1,0 +1,3 @@
+git add .
+git commit -m "edit: add thank you note to README"
+git push
